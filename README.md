@@ -14,6 +14,9 @@ Book Nation is an online platform for buying and selling books. It is developed 
 - Servlets
 - Advanced Java Concepts (e.g., MVC architecture, JDBC)
 
+  
+![Screenshot (18)](https://github.com/Lalit1702/Book-Nation-Online-Book-Buying-and-Selling-Application/assets/147392059/cc88029e-4c75-4494-81aa-a1261fa28723)
+
 ## Features
 - User authentication
 - Book browsing and searching
