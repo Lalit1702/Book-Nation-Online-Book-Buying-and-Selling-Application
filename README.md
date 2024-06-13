@@ -10,7 +10,7 @@ Book Nation is an online platform for buying and selling books. It is developed 
 - Eclipse IDE
 - MySQL
 - Apache Tomcat Server
-- JSP
+- SpringBoot
 - Servlets
 - Advanced Java Concepts (e.g., MVC architecture, JDBC)
 
